@@ -1,10 +1,7 @@
 // ============================================================
 //  Loop — configuration
-//  Paste your Google OAuth Client ID between the quotes below.
-//  (How to get one is in README.md → "2. Create a Google OAuth client".)
-//  It looks like: 1234567890-abcdef....apps.googleusercontent.com
-//  Until you add it, Loop still works fully — just locally, no sync.
+//  Your Google OAuth Client ID goes between the quotes below.
 // ============================================================
 window.LOOP_CONFIG = {
-  googleClientId: "PASTE_YOUR_GOOGLE_CLIENT_ID_HERE"
+  googleClientId: "822837123294-8s2g8rqpu8esr9l2e4f55944hgf3nskr.apps.googleusercontent.com"
 };
